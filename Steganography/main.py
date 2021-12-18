@@ -12,9 +12,9 @@ while True:
         ImageEncode()
     elif(n=='2'):
         ImageDecode()
-    elif(n==3):
+    elif(n=='3'):
         break
     else:
         print("Invalid input")  
     system('cls')        
-    exit()
+   
